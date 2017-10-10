@@ -1,6 +1,6 @@
 <template>
   <div id="entre">
-      <img class="img1"src="../../netflix.png" alt="">
+      <img class="img1"src=":netflix.png" alt="">
   <form v-on:submit="formsub">
     <input class="form1 lol"type="text" placeholder="Search for Movies, TV Shows, Actor and Directors ..." name="" value="" v-model="titre">
     <!-- <input type="submit" name="" value=""> -->
