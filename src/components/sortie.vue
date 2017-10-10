@@ -1,6 +1,6 @@
 <template>
 <div id="sortie">
-
+ <img :src="../../netflix.png" alt="" class="col-12">
   <h2>{{affiche.show_title}}</h2>
   <div class="container">
     <div class="row mt-5 mb-5">
